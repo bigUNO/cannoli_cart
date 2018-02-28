@@ -1,0 +1,10 @@
+C:\Users\johnsol\git\cannoli_cart\bin\Debug\netcoreapp2.0\cannoli_cart.deps.json
+C:\Users\johnsol\git\cannoli_cart\bin\Debug\netcoreapp2.0\cannoli_cart.runtimeconfig.json
+C:\Users\johnsol\git\cannoli_cart\bin\Debug\netcoreapp2.0\cannoli_cart.runtimeconfig.dev.json
+C:\Users\johnsol\git\cannoli_cart\bin\Debug\netcoreapp2.0\cannoli_cart.dll
+C:\Users\johnsol\git\cannoli_cart\bin\Debug\netcoreapp2.0\cannoli_cart.pdb
+C:\Users\johnsol\git\cannoli_cart\obj\Debug\netcoreapp2.0\cannoli_cart.csproj.CoreCompileInputs.cache
+C:\Users\johnsol\git\cannoli_cart\obj\Debug\netcoreapp2.0\cannoli_cart.AssemblyInfoInputs.cache
+C:\Users\johnsol\git\cannoli_cart\obj\Debug\netcoreapp2.0\cannoli_cart.AssemblyInfo.cs
+C:\Users\johnsol\git\cannoli_cart\obj\Debug\netcoreapp2.0\cannoli_cart.dll
+C:\Users\johnsol\git\cannoli_cart\obj\Debug\netcoreapp2.0\cannoli_cart.pdb
